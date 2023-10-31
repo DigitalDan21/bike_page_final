@@ -4,5 +4,6 @@ body {
   background-repeat: no-repeat; 
   background-attachment: fixed; 
   background-position: center; 
+  background-color:#000080 ;
   color: white;
 }
