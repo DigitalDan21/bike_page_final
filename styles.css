@@ -1,5 +1,8 @@
 body {
   background-image: url("https://res.cloudinary.com/djdcuhyb6/image/upload/v1698391367/bike-page%20images/ducati-v4.jpg");
-  background-size: cover;
-  color: white;
+  background-size: cover; /* Makes the image cover the entire container */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-attachment: fixed; /* Keeps the background fixed in place */
+  background-position: center; /* Centers the image both vertically and horizontally */
+  color: white; /* Sets text color to white for better visibility */
 }
