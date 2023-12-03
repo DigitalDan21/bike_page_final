@@ -1,4 +1,3 @@
 [build]
-  command = "npm run build"  # Adjust this based on your project
-  publish = "path/to/public"  # Adjust the publish directory
-
+  command = "echo 'No build steps required'"
+  publish = "path/to/public"
