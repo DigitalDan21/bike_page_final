@@ -1,3 +1,3 @@
 [build]
   command = "echo 'No build steps required'"
-  publish = "path/to/public"
+  publish = "main"
